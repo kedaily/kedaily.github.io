@@ -1,0 +1,13 @@
+/*
+Personal Introduction Webpage Styling 
+Author: Kenneth Daily
+Date: 04/12/2024
+
+Filename: style.css
+Supporting files: index.html, scope.md
+*/
+body {background-color: rgb(223, 212, 199)}
+h1 {color:navy; font-family:'Franklin Gothic Medium'}
+p {color:red; font-family:'Arial'}
+main {padding: 200px}
+footer{color:green; font-family:'Arial'; text-align: center; padding: 20px}
