@@ -1,0 +1,27 @@
+/*
+    Daily's Wreck 'Em Rabbitry - Style Sheet
+    Author: Kenneth Daily
+    Date: May 8, 2026
+
+    Filename: style.css
+    Description: This CSS file defines the styles for Daily's Wreck 'Em Rabbitry website
+
+    Supporting Files: plan.md, retrospective.md, scope.md, index.html, about.html, README.md
+*/
+
+body {background-color: #000000; color: #FFFFFF; text-align: justify}
+header {background-color: #000000; color:#e90802; text-align: center; padding: 20px}
+
+ul {color: #e90802}
+
+header img {width: 150px; height: 150px; object-fit: cover; border-radius: 48%; border: 5px solid #333}
+
+footer {text-align: center; color: #e90802; font-size: larger}
+
+img {width: 200px; height: 200px; object-fit: cover;border: 5px solid #333}
+
+.container {display: flex; align-items: center; gap: 20px;}
+
+img {max-width: 300px;height: auto;}
+
+.container {padding: 20px; box-sizing: border-box}
