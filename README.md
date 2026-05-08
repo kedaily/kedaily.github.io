@@ -40,4 +40,7 @@ Home of Daily's Wreck 'Em Rabbitry
     https://kedaily.github.io
 
 #### Repository located at 
-    https://github.com/kedaily/Daily-s-Wreck-Em-Rabbitry/tree/main/Docs%20Folder
+    https://github.com/kedaily/kedaily.github.io
+
+#### Docs Folder  
+    https://github.com/kedaily/kedaily.github.io/tree/main/Docs
