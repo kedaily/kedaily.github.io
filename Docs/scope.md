@@ -10,20 +10,23 @@
 
 #### Project Purpose:
     Provide a professional website for Cassidy Daily's new Rabbitry to allow her to post photos of her rabbits for sale and historical records from her show rabbits. 
+    Website is to allow potential customers and others to see the outstanding rabbits that she uses as breeders and what rabbits are currently for sale.
 
 #### Description:
     This website shall include the following information.
         1. Website shall be 2 pages to include a homepage and for sale page
-        2. Shall be eye catching to ensure professional representation of Wreck 'Em Rabbitry. 
+        2. Shall utilize Texas Tech University color schemes and complementary colors 
         3. Website shall be visible to the public on GitHub respository.
-        4. Daily's Wreck 'Em Rabbitry logo shall be included on homepage and contact information shall be included at the bottom of both pages. 
-        5. Each rabbit that is on the For Sale page shall have photos of the rabbit and any show awards that they may have received. 
+        4. Daily's Wreck 'Em Rabbitry logo shall be included on both pages. 
+        5. Each rabbit that is on the Our Rabbuts page shall have photos of the rabbit and any show awards that they may have received. 
 
 ####  Desired Results:
     Website should be easy to navigate from the homepage to other pages. This page should be able to be expanded easily to help maintain a fresh up to date inventory of new additions to the rabbitry. Make the pictures grab attention to ensure that visitors want to continue looking at site. 
 
 #### Exclusions: 
     Website should not have Cassidy's address or phone number to increase her privacy and security. 
+    Website should not have payment application links as it is not for e-commerece. 
+    Website should not have a comments area this is for information only not for others to leave comments. 
 
 #### Feedback Loops:
     Cassidy will be involved in giving feedback on webpage as we want her to be satisified with her first webpage. We will also include Shawna (Mom) and Emily (sister) in the feedback sessions to get additional prospectives. 
